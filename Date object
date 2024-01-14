@@ -1,0 +1,13 @@
+   👉...Date object....👈
+_____________________________
+
+
+<html>
+<body>
+<script type="text/javascript">
+var obj=new Date();
+var date=obj.getDate();
+document.write("Today is day:"+date);
+</script>
+</body>
+</html>
