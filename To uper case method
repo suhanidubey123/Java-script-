@@ -1,0 +1,12 @@
+👉...toUpperCase() method...👈
+
+ <html>
+<body>
+<script type="text/javascript">
+var str="suhani";
+document.write("Original string:"+str);
+var str1=str.toUpperCase();
+document.write("<br>New string:"+str1);
+</script>
+</body>
+</html>
